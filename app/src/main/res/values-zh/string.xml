@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation" >
     <string name="m1">菜单1</string>
     <string name="m2">菜单2</string>
 </resources>
+
+
+
+
